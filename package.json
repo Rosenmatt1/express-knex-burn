@@ -1,0 +1,18 @@
+{
+  "name": "express-knex-play",
+  "version": "1.0.0",
+  "description": "express-playground",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "knex": "^0.16.3",
+    "pg": "^7.8.0",
+    "start": "npm start server.js"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Mateo",
+  "license": "ISC"
+}
