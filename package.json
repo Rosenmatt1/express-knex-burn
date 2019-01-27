@@ -15,5 +15,13 @@
     "start": "nodemon server.js"
   },
   "author": "Mateo",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rosenmatt1/express-knex-burn.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Rosenmatt1/express-knex-burn/issues"
+  },
+  "homepage": "https://github.com/Rosenmatt1/express-knex-burn#readme"
 }
